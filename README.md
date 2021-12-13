@@ -1,6 +1,6 @@
 Hello Users 
 In order to use this first go to the directory i.e
-///////////////////
+////////////////////
 cd mac_changer 
 ////////////////////
 then use python3 
