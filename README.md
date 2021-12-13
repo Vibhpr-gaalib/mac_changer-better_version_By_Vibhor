@@ -7,7 +7,7 @@ then use python3
 ///////////////////
 python3 ./main.py
 ///////////////////
-use --help for more instruction 
+use --help for further instructions
 You can add your own mac address but always remember first octet of your mac should be an even number.
 
 
